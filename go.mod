@@ -1,3 +1,3 @@
-module github.com/evolve-work/gotest
+module github.com/Evolution-Working/gotest
 
 go 1.18
